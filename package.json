@@ -1,0 +1,22 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "astronomia": "^4.2.0",
+    "astronomy-engine": "^2.1.19",
+    "canvas": "^3.2.0",
+    "moment-timezone": "^0.6.0",
+    "pdfkit": "^0.17.2",
+    "suncalc": "^1.9.0"
+  }
+}
